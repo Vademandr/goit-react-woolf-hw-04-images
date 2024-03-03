@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-// import { Component } from 'react';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import { getImages } from '../../services/pixabayApi';
 import { Container, Error } from './App.styled';
